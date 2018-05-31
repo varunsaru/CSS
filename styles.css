@@ -1,0 +1,53 @@
+
+.thr{
+  font-size: 50px;
+  font-weight: bold;
+  color: blue;
+  background-color: gray;
+}
+h3{
+  font-size: 75px;
+  color: aqua;
+  font-family: monospace;
+}
+
+
+
+a:link{
+  text-decoration: underline;
+  color: blue;
+}
+a:visited{
+  text-decoration: none;
+  color: yellow;
+
+}
+a:hover{
+
+  color: pink;
+}
+a:active{
+  color: lime;
+  text-decoration: line-through;
+}
+
+
+h1{
+  color: orange;
+}
+h2{
+  color: gray;
+}
+p{
+  color: black;
+}
+
+
+.circle{
+  list-style-position: inside;
+  list-style-image: url(cam.jpeg);
+  color: green;
+}
+.num{
+  list-style-type:upper-roman;
+  list-style-position: inside;
